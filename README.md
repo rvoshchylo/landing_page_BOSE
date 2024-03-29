@@ -9,6 +9,21 @@ Welcome to the landing page for BOSE - your premier destination for audio access
 - **CSS**: Used for styling the page layout.
 - **Sass**: Utilized to streamline CSS coding with variables, mixins, and nesting.
 - **BEM (Block Element Modifier)**: Followed BEM methodology for naming CSS classes, promoting modularity and maintainability.
+---
+
+### Installation with `npm install`:
+
+1. **Navigate to your project directory**: Open your command line or terminal and navigate to the root directory of your project where the `package.json` file is located.
+
+2. **Run `npm install` command**: Enter the `npm install` command in your command line or terminal. This command will read the `package.json` file in your project directory and install all the dependencies listed in it.
+
+### Starting the Application with `npm start`:
+
+1. **Make sure dependencies are installed**: Before starting the application, ensure that all the dependencies are successfully installed by running `npm install`.
+
+2. **Run `npm start` command**: Once the dependencies are installed, you can start your application by running the `npm start` command in your command line or terminal. This command will execute the script specified in the `start` field of your `package.json` file.
+
+3. **Access your application**: After running `npm start`, your application should start running, and you can access it through your web browser using the specified address (usually `http://localhost:3000/`).
 
 ---
 
