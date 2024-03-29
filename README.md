@@ -13,7 +13,7 @@ Welcome to the landing page for BOSE - your premier destination for audio access
 
 ### Installation with `npm install`:
 
-###Node version must be <= 14
+### Node version must be <= 14
 
 1. **Navigate to your project directory**: Open your command line or terminal and navigate to the root directory of your project where the `package.json` file is located.
 
