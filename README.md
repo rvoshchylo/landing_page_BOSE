@@ -13,6 +13,8 @@ Welcome to the landing page for BOSE - your premier destination for audio access
 
 ### Installation with `npm install`:
 
+###Node version must be <= 14
+
 1. **Navigate to your project directory**: Open your command line or terminal and navigate to the root directory of your project where the `package.json` file is located.
 
 2. **Run `npm install` command**: Enter the `npm install` command in your command line or terminal. This command will read the `package.json` file in your project directory and install all the dependencies listed in it.
